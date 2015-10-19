@@ -12,3 +12,5 @@ In this repository, for GraPacc you will find
 The tool is not available for any external use and redistribution.<br>
 <p>
 This repository was constructed by [Bhargav Jhaveri](https://github.com/BhargavJhaveri/) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+
+Thanks to Lionel Montrieux,	Michel Wermelinger and 	Yijun Yu for their help in setting up the repository.
