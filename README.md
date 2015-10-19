@@ -5,7 +5,7 @@ The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm
 <p>
 This repository is <b><i>NOT</b></i> the original repository for this tool.<br>
 
-In this repository, for GraPacc you will find
+In this repository, for rbacUML you will find
 * :x: Source code (Not available)
 * :x: The original tool (Not available)
 <p>
