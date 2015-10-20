@@ -8,9 +8,9 @@ This repository is <b><i>NOT</b></i> the original repository for this tool.<br>
 In this repository, for rbacUML you will find
 * :x: Source code (Not available)
 * :x: The original tool (Not available)
-<p>
+<br>
 The tool is not available for any external use and redistribution.<br>
-<p>
+<br>
 This repository was constructed by [Bhargav Jhaveri](https://github.com/BhargavJhaveri/) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 
 Thanks to Lionel Montrieux,	Michel Wermelinger and 	Yijun Yu for their help in setting up the repository.
