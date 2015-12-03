@@ -9,6 +9,7 @@ In this repository, for rbacUML you will find
 * :x: Source code (Not available)
 * :x: The original tool (Not available)
 * :x: The original video page (Not available)
+* :x: VM containing tool (Not available)
 
 The tool is not available for any external use and redistribution.<br>
 
