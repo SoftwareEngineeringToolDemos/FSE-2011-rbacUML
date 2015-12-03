@@ -3,7 +3,7 @@ This repository contains information related to the tool Role Based Access Contr
 <p>
 The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm?doid=2025113.2025190) at International Conference on Software Engineering, 2011.
 <p>
-This repository is <b><i>NOT</b></i> the original repository for this tool.<br>
+This repository <b><i> IS NOT</b></i> the original repository for this tool.<br>
 
 In this repository, for rbacUML you will find
 * :x: Source code (Not available)
