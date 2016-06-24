@@ -6,10 +6,9 @@ The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm
 This repository <b><i> IS NOT</b></i> the original repository for this tool.<br>
 
 In this repository, for rbacUML you will find
-* :x: Source code (Not available)
-* :x: The original tool (Not available)
-* :x: The original video page (Not available)
-* :x: Virtual machine containing tool (Not available)
+* :x: Source code (not available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 The tool is not available for any external use and redistribution.<br>
 
